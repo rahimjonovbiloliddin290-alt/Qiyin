@@ -3,7 +3,9 @@ import Sidebar from './components/Sidebar'
 import Navbar from './components/Navbar'
 import Dashboard from './pages/Dashboard'
 import Exercises from './pages/Exercises'
-import Loading from './components/loading'
+
+// ✅ To this:
+import Loading from "./components/Loading";
 
 const categories = ['Chest', 'Back', 'Legs', 'Arms', 'Shoulders', 'Core']
 
