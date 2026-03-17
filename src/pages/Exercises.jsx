@@ -172,7 +172,7 @@ const Exercises = () => {
                       fontSize: '24px',
                       marginBottom: '15px'
                     }}>
-                      🏋️
+                      🏋️   
                     </div>
                   )}
                   
